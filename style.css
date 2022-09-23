@@ -26,7 +26,7 @@ body{
 }
 
 .qr .qr-code {
-    background-image: url(/qr-code-component-main/images/image-qr-code.png);
+    background-image: url(images/image-qr-code.png);
     width: 275px;
     height: 310px;
     background-position: center;
